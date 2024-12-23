@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61009781591",
+    "project_id": "brogam-6b2d9",
+    "storage_bucket": "brogam-6b2d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61009781591:android:cdba08096c469c544c9412",
+        "android_client_info": {
+          "package_name": "com.example.brogam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyQ4daN5iYjxVbBkzFYq9ZfcwwoUwRlm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
